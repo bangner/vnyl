@@ -10,6 +10,8 @@ gem 'discogs-wrapper'
 
 gem 'devise'
 
+gem 'rails_admin', '~> 1.1.1'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.2'
 # Use postgresql as the database for Active Record
